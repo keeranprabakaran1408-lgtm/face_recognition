@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/b605866e-6bbd-4917-bc41-ce161e2657f4
 
 
 
-https://github.com/user-attachments/assets/cdee8e8c-2281-4dc6-842d-7c40cb3d7f6a
+
 
 # Facial Recognition Access Control (Raspberry Pi)
 
